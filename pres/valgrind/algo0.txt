@@ -1,9 +1,0 @@
-==6257== HEAP SUMMARY:
-==6257==     in use at exit: 0 bytes in 0 blocks
-==6257==   total heap usage: 2,309,121 allocs, 2,309,121 frees, 1,148,383,033 bytes allocated
-==6257== 
-==6257== All heap blocks were freed -- no leaks are possible
-==6257== 
-==6257== For counts of detected and suppressed errors, rerun with: -v
-==6257== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
-
