@@ -76,3 +76,7 @@ Voici la table des algorithmes:
 |      **5**             | Utilisation de la symétrie rho(a, b) = rho(b, a) pour réduire les calculs + linéarisation de la boucle sur 'b'  | 
 |      **6**             | Linéarisation trois-passe de la boucle sur 'a' (https://dubrayn.github.io/IPS-PROD/sumoptim.html#21)            |
 |      **7**             | Multithreading (chaque thread fait une partie intermédiaire du calcul, le parent somme les résultats            |
+
+
+## Résultats
+![alt text](https://raw.githubusercontent.com/rpereira-dev/IPS-PROD/master/plot/blender/output.png)
